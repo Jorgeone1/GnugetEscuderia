@@ -1,0 +1,17 @@
+D:\JorgeWangWang\dsadsa\Brum Brumm bruuumm\Brum Brumm bruuumm\bin\Debug\net6.0\Brum Brumm bruuumm.exe
+D:\JorgeWangWang\dsadsa\Brum Brumm bruuumm\Brum Brumm bruuumm\bin\Debug\net6.0\Brum Brumm bruuumm.deps.json
+D:\JorgeWangWang\dsadsa\Brum Brumm bruuumm\Brum Brumm bruuumm\bin\Debug\net6.0\Brum Brumm bruuumm.runtimeconfig.json
+D:\JorgeWangWang\dsadsa\Brum Brumm bruuumm\Brum Brumm bruuumm\bin\Debug\net6.0\Brum Brumm bruuumm.dll
+D:\JorgeWangWang\dsadsa\Brum Brumm bruuumm\Brum Brumm bruuumm\bin\Debug\net6.0\Brum Brumm bruuumm.pdb
+D:\JorgeWangWang\dsadsa\Brum Brumm bruuumm\Brum Brumm bruuumm\bin\Debug\net6.0\EscuderiasNuget.dll
+D:\JorgeWangWang\dsadsa\Brum Brumm bruuumm\Brum Brumm bruuumm\obj\Debug\net6.0\Brum Brumm bruuumm.csproj.AssemblyReference.cache
+D:\JorgeWangWang\dsadsa\Brum Brumm bruuumm\Brum Brumm bruuumm\obj\Debug\net6.0\Brum Brumm bruuumm.GeneratedMSBuildEditorConfig.editorconfig
+D:\JorgeWangWang\dsadsa\Brum Brumm bruuumm\Brum Brumm bruuumm\obj\Debug\net6.0\Brum Brumm bruuumm.AssemblyInfoInputs.cache
+D:\JorgeWangWang\dsadsa\Brum Brumm bruuumm\Brum Brumm bruuumm\obj\Debug\net6.0\Brum Brumm bruuumm.AssemblyInfo.cs
+D:\JorgeWangWang\dsadsa\Brum Brumm bruuumm\Brum Brumm bruuumm\obj\Debug\net6.0\Brum Brumm bruuumm.csproj.CoreCompileInputs.cache
+D:\JorgeWangWang\dsadsa\Brum Brumm bruuumm\Brum Brumm bruuumm\obj\Debug\net6.0\Brum Brumm bruuumm.csproj.CopyComplete
+D:\JorgeWangWang\dsadsa\Brum Brumm bruuumm\Brum Brumm bruuumm\obj\Debug\net6.0\Brum Brumm bruuumm.dll
+D:\JorgeWangWang\dsadsa\Brum Brumm bruuumm\Brum Brumm bruuumm\obj\Debug\net6.0\refint\Brum Brumm bruuumm.dll
+D:\JorgeWangWang\dsadsa\Brum Brumm bruuumm\Brum Brumm bruuumm\obj\Debug\net6.0\Brum Brumm bruuumm.pdb
+D:\JorgeWangWang\dsadsa\Brum Brumm bruuumm\Brum Brumm bruuumm\obj\Debug\net6.0\Brum Brumm bruuumm.genruntimeconfig.cache
+D:\JorgeWangWang\dsadsa\Brum Brumm bruuumm\Brum Brumm bruuumm\obj\Debug\net6.0\ref\Brum Brumm bruuumm.dll

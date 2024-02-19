@@ -1,20 +1,24 @@
 {
   "format": 1,
   "restore": {
-    "D:\\JorgeWangWang\\dsadsa\\Brum Brumm bruuumm\\Brum Brumm bruuumm\\Brum Brumm bruuumm.csproj": {}
+    "C:\\Users\\jww11\\Documents\\GitHub\\GnugetEscuderia\\Brum Brumm bruuumm\\Brum Brumm bruuumm\\Brum Brumm bruuumm.csproj": {}
   },
   "projects": {
-    "D:\\JorgeWangWang\\dsadsa\\Brum Brumm bruuumm\\Brum Brumm bruuumm\\Brum Brumm bruuumm.csproj": {
+    "C:\\Users\\jww11\\Documents\\GitHub\\GnugetEscuderia\\Brum Brumm bruuumm\\Brum Brumm bruuumm\\Brum Brumm bruuumm.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\JorgeWangWang\\dsadsa\\Brum Brumm bruuumm\\Brum Brumm bruuumm\\Brum Brumm bruuumm.csproj",
+        "projectUniqueName": "C:\\Users\\jww11\\Documents\\GitHub\\GnugetEscuderia\\Brum Brumm bruuumm\\Brum Brumm bruuumm\\Brum Brumm bruuumm.csproj",
         "projectName": "Brum Brumm bruuumm",
-        "projectPath": "D:\\JorgeWangWang\\dsadsa\\Brum Brumm bruuumm\\Brum Brumm bruuumm\\Brum Brumm bruuumm.csproj",
-        "packagesPath": "C:\\Users\\Alumno\\.nuget\\packages\\",
-        "outputPath": "D:\\JorgeWangWang\\dsadsa\\Brum Brumm bruuumm\\Brum Brumm bruuumm\\obj\\",
+        "projectPath": "C:\\Users\\jww11\\Documents\\GitHub\\GnugetEscuderia\\Brum Brumm bruuumm\\Brum Brumm bruuumm\\Brum Brumm bruuumm.csproj",
+        "packagesPath": "C:\\Users\\jww11\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\jww11\\Documents\\GitHub\\GnugetEscuderia\\Brum Brumm bruuumm\\Brum Brumm bruuumm\\obj\\",
         "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
         "configFilePaths": [
-          "C:\\Users\\Alumno\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\jww11\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -62,7 +66,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.402\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.101\\RuntimeIdentifierGraph.json"
         }
       }
     }

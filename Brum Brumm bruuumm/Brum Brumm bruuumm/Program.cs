@@ -82,10 +82,10 @@ namespace MostrarEscuderias
         }
         private static void Mostrar(Escuderia es)
         {
-            Console.WriteLine("===============================================");
-            Console.WriteLine("id: " + es.IdEscuderia + "\nNombre: " + es.Nombre + "\nPiloto: " + es.Piloto + "\nPais: " + es.Pais + "\nImagen: " + es.Imagen);
-            Console.WriteLine("===============================================");
-            Console.Write("Pulse cualquier tecla para continuar");
+            Console.WriteLine("\t===============================================");
+            Console.WriteLine("\tid: " + es.IdEscuderia + "\nNombre: " + es.Nombre + "\nPiloto: " + es.Piloto + "\nPais: " + es.Pais + "\nImagen: " + es.Imagen);
+            Console.WriteLine("\t===============================================");
+            Console.Write("\tPulse cualquier tecla para continuar");
             Console.ReadKey();
             Console.Clear();
         }

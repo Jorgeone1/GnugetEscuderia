@@ -33,3 +33,20 @@ C:\Users\jww11\Documents\GitHub\GnugetEscuderia\Brum Brumm bruuumm\Brum Brumm br
 C:\Users\jww11\Documents\GitHub\GnugetEscuderia\Brum Brumm bruuumm\Brum Brumm bruuumm\obj\Debug\net6.0\Brum Brumm bruuumm.csproj.CopyComplete
 C:\Users\jww11\Documents\GitHub\GnugetEscuderia\Brum Brumm bruuumm\Brum Brumm bruuumm\obj\Debug\net6.0\Brum Brumm bruuumm.genruntimeconfig.cache
 C:\Users\jww11\Documents\GitHub\GnugetEscuderia\Brum Brumm bruuumm\Brum Brumm bruuumm\obj\Debug\net6.0\ref\Brum Brumm bruuumm.dll
+C:\Users\Alumno\Documents\GitHub\GnugetEscuderia\Brum Brumm bruuumm\Brum Brumm bruuumm\bin\Debug\net6.0\Brum Brumm bruuumm.exe
+C:\Users\Alumno\Documents\GitHub\GnugetEscuderia\Brum Brumm bruuumm\Brum Brumm bruuumm\bin\Debug\net6.0\Brum Brumm bruuumm.deps.json
+C:\Users\Alumno\Documents\GitHub\GnugetEscuderia\Brum Brumm bruuumm\Brum Brumm bruuumm\bin\Debug\net6.0\Brum Brumm bruuumm.runtimeconfig.json
+C:\Users\Alumno\Documents\GitHub\GnugetEscuderia\Brum Brumm bruuumm\Brum Brumm bruuumm\bin\Debug\net6.0\Brum Brumm bruuumm.dll
+C:\Users\Alumno\Documents\GitHub\GnugetEscuderia\Brum Brumm bruuumm\Brum Brumm bruuumm\bin\Debug\net6.0\Brum Brumm bruuumm.pdb
+C:\Users\Alumno\Documents\GitHub\GnugetEscuderia\Brum Brumm bruuumm\Brum Brumm bruuumm\bin\Debug\net6.0\EscuderiasNuget.dll
+C:\Users\Alumno\Documents\GitHub\GnugetEscuderia\Brum Brumm bruuumm\Brum Brumm bruuumm\obj\Debug\net6.0\Brum Brumm bruuumm.csproj.AssemblyReference.cache
+C:\Users\Alumno\Documents\GitHub\GnugetEscuderia\Brum Brumm bruuumm\Brum Brumm bruuumm\obj\Debug\net6.0\Brum Brumm bruuumm.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Alumno\Documents\GitHub\GnugetEscuderia\Brum Brumm bruuumm\Brum Brumm bruuumm\obj\Debug\net6.0\Brum Brumm bruuumm.AssemblyInfoInputs.cache
+C:\Users\Alumno\Documents\GitHub\GnugetEscuderia\Brum Brumm bruuumm\Brum Brumm bruuumm\obj\Debug\net6.0\Brum Brumm bruuumm.AssemblyInfo.cs
+C:\Users\Alumno\Documents\GitHub\GnugetEscuderia\Brum Brumm bruuumm\Brum Brumm bruuumm\obj\Debug\net6.0\Brum Brumm bruuumm.csproj.CoreCompileInputs.cache
+C:\Users\Alumno\Documents\GitHub\GnugetEscuderia\Brum Brumm bruuumm\Brum Brumm bruuumm\obj\Debug\net6.0\Brum Brumm bruuumm.csproj.CopyComplete
+C:\Users\Alumno\Documents\GitHub\GnugetEscuderia\Brum Brumm bruuumm\Brum Brumm bruuumm\obj\Debug\net6.0\Brum Brumm bruuumm.dll
+C:\Users\Alumno\Documents\GitHub\GnugetEscuderia\Brum Brumm bruuumm\Brum Brumm bruuumm\obj\Debug\net6.0\refint\Brum Brumm bruuumm.dll
+C:\Users\Alumno\Documents\GitHub\GnugetEscuderia\Brum Brumm bruuumm\Brum Brumm bruuumm\obj\Debug\net6.0\Brum Brumm bruuumm.pdb
+C:\Users\Alumno\Documents\GitHub\GnugetEscuderia\Brum Brumm bruuumm\Brum Brumm bruuumm\obj\Debug\net6.0\Brum Brumm bruuumm.genruntimeconfig.cache
+C:\Users\Alumno\Documents\GitHub\GnugetEscuderia\Brum Brumm bruuumm\Brum Brumm bruuumm\obj\Debug\net6.0\ref\Brum Brumm bruuumm.dll

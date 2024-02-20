@@ -1,10 +1,10 @@
 {
   "version": 2,
-  "dgSpecHash": "DPOFcs8jGPnWZGVbx4OKQ4AYXhtVa9ljnh4ecvv9h5PXltPdGmJadfJLd5HV5M5BMfk3tug8tzX2p2BJ80Hv7g==",
+  "dgSpecHash": "YNAz+s9FqPp9EK5cFWiV+UDGv6lj+UbfXnm9JDtT85gFoeFw8AoqOaNkCrkapR0bTTMg2mwS9OqnCUcQMGhWkw==",
   "success": true,
-  "projectFilePath": "C:\\Users\\jww11\\Documents\\GitHub\\GnugetEscuderia\\Brum Brumm bruuumm\\Brum Brumm bruuumm\\Brum Brumm bruuumm.csproj",
+  "projectFilePath": "C:\\Users\\Alumno\\Documents\\GitHub\\GnugetEscuderia\\Brum Brumm bruuumm\\Brum Brumm bruuumm\\Brum Brumm bruuumm.csproj",
   "expectedPackageFiles": [
-    "C:\\Users\\jww11\\.nuget\\packages\\jwwtcsescuderia-jorgewan\\1.0.0.1\\jwwtcsescuderia-jorgewan.1.0.0.1.nupkg.sha512"
+    "C:\\Users\\Alumno\\.nuget\\packages\\jwwtcsescuderia-jorgewan\\1.0.0.1\\jwwtcsescuderia-jorgewan.1.0.0.1.nupkg.sha512"
   ],
   "logs": []
 }
